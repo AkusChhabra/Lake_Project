@@ -1,0 +1,391 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 1 ==========
+
+
+The yearly temperature for lake Superior is 6.05 ˚C.
+
+The yearly temperature for lake Michigan is 9.11 ˚C.
+
+The yearly temperature for lake Huron is 8.22 ˚C.
+
+The yearly temperature for lake Erie is 11.23 ˚C.
+
+The yearly temperature for lake Ontario is 9.80 ˚C.
+
+The yearly temperature for lake St. Clair is 10.73 ˚C.
+
+The average of all the six lakes is 9.19 ˚C.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 2 ==========
+
+
+
+The lake with the lowest temperature is lake Superior with an average temperature of 6.05 ˚C.
+
+The lake with the highest temperature is lake Erie with an average temperature of 11.23 ˚C.
+
+
+
+Lakes that are less than the average:
+
+Lake: Superior   Temperature: 6.05
+Lake: Michigan   Temperature: 9.11
+Lake: Huron      Temperature: 8.22
+
+
+Lakes that are above the the average:
+
+Lake: Erie       Temperature: 11.23
+Lake: Ontario    Temperature: 9.80
+Lake: St. Clair  Temperature: 10.73
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 3 ==========
+
+The coldest temperature for lake Superior was 0.20 ˚C on 3/5/2019.
+
+The hottest temperature for lake Superior was 16.60 ˚C on 8/17/2019.
+
+
+The coldest temperature for lake Michigan was 0.89 ˚C on 3/8/2019.
+
+The hottest temperature for lake Michigan was 21.75 ˚C on 8/20/2019.
+
+
+The coldest temperature for lake Huron was 0.20 ˚C on 3/1/2019.
+
+The hottest temperature for lake Huron was 20.41 ˚C on 8/7/2019.
+
+
+The coldest temperature for lake Erie was 0.20 ˚C on 2/1/2019.
+
+The hottest temperature for lake Erie was 24.86 ˚C on 8/6/2019.
+
+
+The coldest temperature for lake Ontario was 1.12 ˚C on 3/1/2019.
+
+The hottest temperature for lake Ontario was 23.18 ˚C on 8/6/2019.
+
+
+The coldest temperature for lake St. Clair was 0.20 ˚C on 1/19/2019.
+
+The hottest temperature for lake St. Clair was 25.04 ˚C on 7/20/2019.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 4 ==========
+
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/5/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/6/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/7/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/8/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/9/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/10/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/11/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/14/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/15/2019.
+
+The coldest temperature overall was for lake Superior with a temperature of 0.20 ˚C on 3/16/2019.
+
+The coldest temperature overall was for lake Huron with a temperature of 0.20 ˚C on 3/1/2019.
+
+The coldest temperature overall was for lake Huron with a temperature of 0.20 ˚C on 3/8/2019.
+
+The coldest temperature overall was for lake Huron with a temperature of 0.20 ˚C on 3/9/2019.
+
+The coldest temperature overall was for lake Huron with a temperature of 0.20 ˚C on 3/10/2019.
+
+The coldest temperature overall was for lake Huron with a temperature of 0.20 ˚C on 3/11/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/1/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/2/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/5/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/9/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/10/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/11/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/12/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/13/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/14/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/15/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/16/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/17/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/18/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/19/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/20/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/21/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/22/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/23/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/24/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/25/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/26/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/27/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 2/28/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/1/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/2/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/3/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/4/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/5/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/6/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/7/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/8/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/9/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/10/2019.
+
+The coldest temperature overall was for lake Erie with a temperature of 0.20 ˚C on 3/11/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/19/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/20/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/21/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/22/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/23/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/24/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/25/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/26/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/27/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/28/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/29/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/30/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 1/31/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/1/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/2/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/3/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/4/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/5/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/6/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/7/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/8/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/9/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/10/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/11/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/12/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/13/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/14/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/15/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/16/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/17/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/18/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/19/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/20/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/21/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/22/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/23/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/24/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/25/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/26/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/27/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 2/28/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/1/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/2/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/3/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/4/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/5/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/6/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/7/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/8/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/9/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/10/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/11/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/12/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/13/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/14/2019.
+
+The coldest temperature overall was for lake St. Clair with a temperature of 0.20 ˚C on 3/15/2019.
+
+The hottest temperature overall was for lake St. Clair with a temperature of 25.04 ˚C on 7/20/2019.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 5 ==========
+
+
+Erie at 22.86 ˚C.
+
+St. Clair at 22.43 ˚C.
+
+Ontario at 20.57 ˚C.
+
+Michigan at 19.05 ˚C.
+
+Huron at 17.74 ˚C.
+
+Superior at 12.59 ˚C.
+
+
+The order from warmest to coldest is the same as the yearly average calculated in question 2.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 6 ==========
+
+
+Ontario at 2.733 ˚C.
+
+Michigan at 2.431 ˚C.
+
+Huron at 1.556 ˚C.
+
+Superior at 1.472 ˚C.
+
+Erie at 1.466 ˚C.
+
+St. Clair at 0.892 ˚C.
+
+
+The order from warmest to coldest is not the same as the yearly average calculated in question 2.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 7 ==========
+
+There are 0 days where you can swim in lake Superior.
+
+There are 36 days where you can swim in lake Michigan.
+
+There are 9 days where you can swim in lake Huron.
+
+There are 99 days where you can swim in lake Erie.
+
+There are 65 days where you can swim in lake Ontario.
+
+There are 91 days where you can swim in lake St. Clair.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 8 ==========
+
+There are 0 days where lake Superior is frozen.
+
+There are 0 days where lake Michigan is frozen.
+
+There are 0 days where lake Huron is frozen.
+
+There are 0 days where lake Erie is frozen.
+
+There are 0 days where lake Ontario is frozen.
+
+There are 0 days where lake St. Clair is frozen.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+========== QUESTION 9 ==========
+
+-------------------------------------------------------------------------
+|       Lake Name       |       2018            |       2019            |
+-------------------------------------------------------------------------
+|       Superior        |       5.87 ˚C         |       6.05 ˚C         |
+|       Michigan        |       9.87 ˚C         |       9.11 ˚C         |
+|       Huron           |       8.78 ˚C         |       8.22 ˚C         |
+|       Erie            |       11.56 ˚C        |       11.23 ˚C        |
+|       Ontario         |       10.60 ˚C        |       9.80 ˚C         |
+|       St. Clair       |       11.20 ˚C        |       10.73 ˚C        |
+-------------------------------------------------------------------------
+|       Lake Average    |       9.65 ˚C         |       9.19 ˚C         |
+-------------------------------------------------------------------------
